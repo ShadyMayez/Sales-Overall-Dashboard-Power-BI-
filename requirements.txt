@@ -1,0 +1,3 @@
+# Environment Requirements
+Microsoft Power BI Desktop (Latest Version)
+Data Source: [Specify if it's an Excel, SQL, or CSV file used in the model]
